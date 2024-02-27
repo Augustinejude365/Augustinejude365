@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Augustinejude365
-- 👀 I’m interested in everything Info Tech.
-- 🌱 I’m currently learning about Software Data Processing.
-- 💞️ I’m looking to collaborate on ...
+👋 Hello there! I'm Augustine Jude Ifeanyi, a passionate full-stack software engineer with a knack for crafting robust and scalable solutions. With 2 years of hands-on experience in the industry, I thrive in turning complex problems into elegant, user-friendly applications. My expertise spans across front-end technologies like HTML, CSS, and JavaScript (React, Vue.js) to back-end frameworks such as Node.js, Express, Python, and C programming and databases like MongoDB, and SQL. I'm dedicated to staying updated with the latest trends and technologies in the ever-evolving tech landscape. Let's collaborate and build something awesome together! 💻🚀
 - 📫 How to reach me ...
-
-<!---
-Augustinejude365/Augustinejude365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn ~ 
